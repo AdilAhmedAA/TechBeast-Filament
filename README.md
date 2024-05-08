@@ -12,7 +12,8 @@ Install the package by the following command,
     *************
     php artisan serve
     *************
-<a href="https://buymeacoffee.com/hassandevtips" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+    <br>
+<a href="https://buymeacoffee.com/adilahmedkhan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 ## Note
 ### TechBeast - Filament, LiveWire, Tailwind, Laravel
 A Simple Ecommerce Having Features to Manage The products and orders.
